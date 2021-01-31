@@ -14,3 +14,4 @@ $ C:/Python39/python.exe "c:/Users/user/Desktop/python workspace/practice210131.
 사당행 열차가 들어오고 있습니다
 신도림행 열차가 들어오고 있습니다  
 인천공항행 열차가 들어오고 있습니다
+
